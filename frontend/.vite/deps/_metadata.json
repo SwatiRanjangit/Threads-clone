@@ -1,0 +1,74 @@
+{
+  "hash": "d1311730",
+  "browserHash": "6b865a26",
+  "optimized": {
+    "@chakra-ui/layout": {
+      "src": "../../node_modules/@chakra-ui/layout/dist/index.mjs",
+      "file": "@chakra-ui_layout.js",
+      "fileHash": "bbffe8d7",
+      "needsInterop": false
+    },
+    "@chakra-ui/react": {
+      "src": "../../node_modules/@chakra-ui/react/dist/index.mjs",
+      "file": "@chakra-ui_react.js",
+      "fileHash": "03266b70",
+      "needsInterop": false
+    },
+    "@chakra-ui/theme-tools": {
+      "src": "../../node_modules/@chakra-ui/theme-tools/dist/index.mjs",
+      "file": "@chakra-ui_theme-tools.js",
+      "fileHash": "899d9875",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e467cb68",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "af581f03",
+      "needsInterop": true
+    },
+    "react-icons/bs": {
+      "src": "../../node_modules/react-icons/bs/index.esm.js",
+      "file": "react-icons_bs.js",
+      "fileHash": "3cccf325",
+      "needsInterop": false
+    },
+    "react-icons/cg": {
+      "src": "../../node_modules/react-icons/cg/index.esm.js",
+      "file": "react-icons_cg.js",
+      "fileHash": "0262cec9",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "3d41e4f9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OTY6O57J": {
+      "file": "chunk-OTY6O57J.js"
+    },
+    "chunk-Z4RWBDCT": {
+      "file": "chunk-Z4RWBDCT.js"
+    },
+    "chunk-7EL74XRL": {
+      "file": "chunk-7EL74XRL.js"
+    },
+    "chunk-ZVAM7HF2": {
+      "file": "chunk-ZVAM7HF2.js"
+    },
+    "chunk-2PA4WPI3": {
+      "file": "chunk-2PA4WPI3.js"
+    },
+    "chunk-ROME4SDB": {
+      "file": "chunk-ROME4SDB.js"
+    }
+  }
+}
